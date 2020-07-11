@@ -2,7 +2,7 @@
 page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1502872197                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 1523173645                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : KizsAnime HD                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Anime TV & Discover Anime App                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : KizsAnime Anime Apps & TV Shows is one of the best applications that you can now discover Top rated, Popular, Upcoming Anime movies
+app_description                           : Anime TV & Discover Anime App is one of the best applications that you can now discover Top rated, Popular, Upcoming Anime show
                                             This app the easiest way to discover and find your favorite anime all in one place
 
 
@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Le Do                                
-your_link                                 : http://proxteam.github.io/anime                  
+your_link                                 : https://leedegree.github.io/anime/
 your_city                                 : HaNoi                                
 email_address                             : 
 facebook_username                         :                                           
@@ -61,7 +61,7 @@ features                                  :
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
-    description                           : <a href="https://proxteam.github.io/privacy">Privacy</a><br><a href="https://proxteam.github.io/term">Term of service</a>
+    description                           : <a href="https://leedegree.github.io/privacy">Privacy</a><br><a href="https://leedegree.github.io/term">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
