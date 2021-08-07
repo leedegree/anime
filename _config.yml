@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/ios-marketing.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Anime TV & Discover Anime App                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : Anime TV & Cloud Show App                                       # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Anime TV & Discover Anime App is one of the best applications that you can now discover Top rated, Popular, Upcoming Anime show
+app_description                           : Anime TV & Cloud Show App is one of the best applications that you can now discover Top rated, Popular, Upcoming Anime show
                                             This app the easiest way to discover and find your favorite anime all in one place
 
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Le Do                                
+your_name                                 : Lee
 your_link                                 : https://leedegree.github.io/anime/
 your_city                                 : HaNoi                                
 email_address                             : 
@@ -36,12 +36,12 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Discover  
-    description                           : Popular, top rated and Upcoming
+  - title                                 : Discover
+    description                           : Popular, top rated and Upcoming <br>1000+ The best Anime show
     fontawesome_icon_name                 : magic
 
-  - title                                 : Search
-    description                           : 1000+ The best Anime movies
+  - title                                 : Tracking
+    description                           : Tracking watched progress by episode
     fontawesome_icon_name                 : calendar-check
 
   - title                                 : Favorite
@@ -49,7 +49,7 @@ features                                  :
     fontawesome_icon_name                 : location-arrow
 
   - title                                 : Using 3rd party TMDb service.
-    description                           : The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by our amazing community dating back to 2008. 
+    description                           : The Movie Database (TMDb) is a community built movie and TV database. Every piece of data has been added by community dating back to 2008.
     fontawesome_icon_name                 : link
   
   - title                                 : #Feature List
@@ -57,7 +57,7 @@ features                                  :
     fontawesome_icon_name                 : #star
 
   - title                                 : Contact
-    description                           : 'Messenger: <a href="https://m.me/416305462459391">me</a><br>Email: <a href="mailto:appfeedback118@yandex.com">appfeedback118</a>'
+    description                           : 'Email: <a href="mailto:appfeedback118@yandex.com">appfeedback118</a>'
     fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
